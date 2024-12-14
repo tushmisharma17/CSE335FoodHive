@@ -1,4 +1,5 @@
 FoodHive 🍽️
+
 Your Food Compass to Discover and Navigate the Best Restaurants
 
 Overview
