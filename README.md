@@ -1,28 +1,58 @@
-FoodHive 🍽️
+# FoodHive 🍽️  
+**Your Food Compass to Discover and Navigate the Best Restaurants**  
 
-Your Food Compass to Discover and Navigate the Best Restaurants
+---
 
-Overview
-FoodHive is an iOS application designed to simplify the restaurant discovery experience. Whether you’re exploring a new city or searching for local dining options, FoodHive provides an intuitive platform for finding and navigating to the best restaurants. Built with Swift and adhering to the MVVM architecture, this app ensures a seamless, responsive user experience. By integrating APIs like Yelp API and MapKit, FoodHive delivers real-time restaurant data, dynamic search functionality, and interactive navigation—all within a clean, user-friendly interface.
+## 🚀 Overview  
+FoodHive is a feature-rich iOS application designed to make restaurant discovery intuitive and efficient. Whether you're exploring a new city or looking for local dining options, FoodHive offers:  
+- Dynamic restaurant search.  
+- Comprehensive details about each restaurant.  
+- Seamless navigation using built-in maps.  
 
-Features
-1. Dynamic Restaurant Search
-Search for restaurants by entering a city or zip code.
-Powered by Yelp API, FoodHive fetches real-time restaurant data, including:
-Restaurant names.
-Ratings and reviews.
-Addresses and thumbnail images for quick identification.
+Built with **Swift** and the **MVVM architecture**, FoodHive integrates **Yelp API** for real-time data and **MapKit** for navigation, ensuring an exceptional user experience.  
 
-3. Interactive Restaurant Details
-View detailed information about a restaurant with just a tap.
-Includes:
-Restaurant name, rating, and address.
-Interactive maps powered by MapKit for seamless navigation.
+---
 
-5. Clean and Modern User Interface
-Designed for simplicity and usability, adhering to Apple’s Human Interface Guidelines.
-Responsive layout with support for accessibility features, ensuring a smooth experience for all users.
+## 🌟 Features  
 
-7. Map Integration
-Navigate easily to any restaurant using the built-in map feature.
-Real-time geolocation updates ensure accurate directions.
+### 🔍 Dynamic Restaurant Search  
+- Effortlessly search for restaurants by city or zip code.  
+- Displays real-time data, including:  
+  - Names, ratings, and reviews.  
+  - Addresses and thumbnail images for better clarity.  
+
+### 📝 Interactive Restaurant Details  
+- View comprehensive details about restaurants:  
+  - Ratings and reviews.  
+  - Locations with interactive maps.  
+
+### 🗺️ Map Integration  
+- Built-in navigation using **MapKit**.  
+- Real-time geolocation updates for accurate directions.  
+
+### 🎨 Clean User Interface  
+- Designed following **Apple Human Interface Guidelines** for a seamless and responsive experience.  
+- Supports accessibility features, ensuring usability for everyone.  
+
+---
+
+## 🛠️ Technology Stack  
+| **Component**    | **Details**           |  
+|-------------------|-----------------------|  
+| **Language**      | Swift                |  
+| **Architecture**  | MVVM                 |  
+| **APIs Used**     | Yelp API, MapKit     |  
+
+---
+
+## 📋 Installation Guide  
+
+### Prerequisites  
+- **Xcode 14.0** or later.  
+- **macOS 12.0 Monterey** or later.  
+
+### Steps  
+1. Clone this repository:  
+   
+bash  
+   git clone https://github.com/tushmisharma17/CSE335FoodHive.git  
