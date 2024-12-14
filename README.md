@@ -36,6 +36,16 @@ Built with **Swift** and the **MVVM architecture**, FoodHive integrates **Yelp A
 
 ---
 
+## 📸 Screenshots
+
+### App Walkthrough
+![App Walkthrough](./App%27s%20Walkthrough.png)
+
+### Detailed Functionality
+![Detailed App Functionality](./Detailed%20App%20Functionality.png)
+
+
+
 ## 🛠️ Technology Stack  
 | **Component**    | **Details**           |  
 |-------------------|-----------------------|  
